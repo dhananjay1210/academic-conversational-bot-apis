@@ -1,0 +1,32 @@
+{
+  "class": {
+    "professor": "<professor>",
+    "name": "<class name>",
+    "classroom": "<classroom>",
+    "time": "<time>"
+  },
+  "nlp201": {
+    "professor": "Ian Lane",
+    "name": "Natural Language Processing 201",
+    "classroom": "CSE 1202",
+    "time": "Tuesday, Thursday 11:00AM - 12:20PM"
+  },
+  "cse201": {
+    "professor": "Leilani Battle",
+    "name": "Computer Science 201",
+    "classroom": "SV 2202",
+    "time": "Tuesday, Thursday 2:30PM - 3:50PM"
+  },
+  "nlp203": {
+    "professor": "Amita ",
+    "name": "Deep Learning for NLP",
+    "classroom": "SV 2102",
+    "time": "Tuesday, Thursday 4:00PM - 5:20PM"
+  },
+  "cse270": {
+    "professor": "Behrooz Yao",
+    "name": "Intro to Computer vision",
+    "classroom": "CSE 1202",
+    "time": "Monday, Wednesday 1:50PM - 3:10PM"
+  }
+}
